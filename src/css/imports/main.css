@@ -1,0 +1,16 @@
+nav {
+  max-height: 150px; }
+
+ul {
+  list-style-type: none; }
+
+a {
+  color: #3f3f3f;
+  font-family: Lato;
+  font-size: 14px;
+  line-height: 20px; }
+
+.app-flow-content {
+  width: 100%;
+  margin: 0;
+  flex: 1 0 auto; }
